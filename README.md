@@ -1,4 +1,4 @@
-# hackfb
+#hackfb
 SCRIPT HACK FACEBOOK PREMIUM!
 
 
