@@ -8,7 +8,7 @@ os.system('figlet SCRIPT FACEBOOK TARGET')
 print(Style.BRIGHT, Fore.YELLOW)
 
 while True:
-    print(Style.BRIGHT, Back.RED, Fore.WHITE + "NOTE! : SC INI KHUSUS PENGGUNA PREMIUM, JIKA INGIN MEMBELI KETIK 0 " + Style.RESET_ALL)
+    print(Style.BRIGHT, Back.RED, Fore.WHITE + "NOTE! : SCRIPT HACK FACEBOOK ((PREMIUM)) " + Style.RESET_ALL)
     print()
     print(Style.BRIGHT, Fore.YELLOW + "1. HACK FACEBOOK")
     print(Style.BRIGHT, Fore.RED + "0. BELI SC (50k)")
