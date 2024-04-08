@@ -1,4 +1,4 @@
-#hackfb
+# hackfb
 SCRIPT HACK FACEBOOK PREMIUM!
 
 
@@ -26,7 +26,8 @@ python hackfb.py
 
 
 
-#hackwa
+# hackwa
+SCRIPT HACK WA PREMIUM
 
 TUTORIAL PENGGUNAAN SC
 
