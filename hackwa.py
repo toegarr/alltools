@@ -11,7 +11,7 @@ while True:
     print(Style.BRIGHT, Back.RED, Fore.WHITE + "SCRIPT HACK WA USING OTP ((PREMIUM))" + Style.RESET_ALL)
     print()
     print(Style.BRIGHT, Fore.YELLOW + "1. HACK WHATSAPP OTP")
-    print(Style.BRIGHT, Fore.RED + "0. BUY SC")
+    print(Style.BRIGHT, Fore.RED + "0. BUY SC (50K)")
     print()
     prank_choice = int(input(Fore.YELLOW + "PILIH : "))
     
